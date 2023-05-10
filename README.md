@@ -1,2 +1,2 @@
 # Design-pattern
-Total popular design pattern using dart to implement.
+Total popular design patterns using dart to implement.
